@@ -11,7 +11,9 @@ Today we will be analyzing the TMDb data set from Kaggle. This data set has almo
 Questions to answer:
 
 - What are the most popular genre in the dataframe?
-- Do films with higher voting counts have a higher profit?;
+- Do films with higher voting counts have a higher profit?
 - What is the average runtime?
-- Is runtime associated with higher profits?;
-- Which movies generated the most/least profit?;
+- Is runtime associated with higher profits?
+- Which movies generated the most/least profit?
+
+To view our findings, click on the "project1.ipynb" Jupyter notebook
