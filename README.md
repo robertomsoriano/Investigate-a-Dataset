@@ -16,4 +16,5 @@ Questions to answer:
 - Is runtime associated with higher profits?
 - Which movies generated the most/least profit?
 
-To view our findings, click on the "project1.ipynb" Jupyter notebook
+To view our findings, click on the "project1.ipynb" Jupyter notebook: 
+https://github.com/robertomsoriano/Investigate-a-Dataset/blob/master/project1.ipynb
